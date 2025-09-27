@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+
+title: "ANSC 108 Basic Animal Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-ansc108
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
----
+-------------------------
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught **ANSC 108: Basic Animal Science**, an undergraduate-level course with an enrollment of 25 students. The course introduced foundational concepts in animal science, covering nutrition, genetics, physiology, reproduction, and animal management practices.
 
-Heading 1
-======
+# Heading 1
 
-Heading 2
-======
+# Heading 2
 
-Heading 3
-======
+# Heading 3
