@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Rajesh Neupane",
+    "email": "rajeshneupane7@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://rajesh-neupane.github.io",
+    "summary": "Phd Student at Texas A&M University",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "2471 TAMU",
+      "postalCode": "77843",
+      "city": "College station, TX",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=kXbRq0sAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/rajeshneupane7"
       }
     ]
   },
