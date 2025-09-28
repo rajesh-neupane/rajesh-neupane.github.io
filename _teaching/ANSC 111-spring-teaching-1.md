@@ -11,8 +11,3 @@ location: "College station Texas "
 
 I taught **ANSC 108: Basic Animal Science**, an undergraduate-level course with an enrollment of 25 students. The course introduced foundational concepts in animal science, covering nutrition, genetics, physiology, reproduction, and animal management practices.
 
-# Heading 1
-
-# Heading 2
-
-# Heading 3

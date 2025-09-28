@@ -3,7 +3,7 @@
 title: "Teaching Experience: ANSC 108"
 collection: teaching
 type: "Course"
-permalink: /teaching/ansc-108-basic-animal-science
+permalink: rajesh-neupane.github.io/_teaching/ANSC 108.md
 venue: "Texas A&M University, Department of Animal Science"
 date: 2024-01-01
 location: "College Station, TX, USA"
