@@ -15,22 +15,67 @@ Education
 * M.S. in dairy science, University of Kiel, Germany
 * B.S. in Animal Science, Nepal, 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: Graduate Teaching Assistant, ANSC 107
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Texas A&M University
+  * Duties include: Supporting instruction, managing accommodations for online quizzes, assisting students with course content
+  * Supervisor: Department of Animal Science
+
+* 2024–2025: Graduate Research Assistant
+
+  * Texas A&M University
+  * Duties include: Research on precision dairy management projects such as lameness detection, panting score quantification, digital dermatitis detection, failed milking analysis, water efficiency in cows, and robotic milking efficiency; data analysis using AI and computer vision; conference presentations and workshops
+  * Supervisor: Dr. Paudyal
+
+* Fall 2023: Academic Pages Collaborator
+
+  * GitHub University (personal/academic website project)
+  * Duties included: Updates and improvements to academic template site, managing GitHub Pages deployment, customizing Jekyll themes
+  * Supervisor: Self-directed
+
+* 2015: Research Assistant
+
+  * GitHub University (project-based learning)
+  * Duties included: Merging pull requests, tagging issues, contributing to version control workflows
+  * Supervisor: Professor Hub and Professor Git
+
+# Skills
+
+* Precision Livestock Farming
+
+  * Dairy cattle lameness detection using computer vision
+  * Heat stress quantification via panting scores
+  * Disease detection (digital dermatitis, ketosis monitoring)
+  * Robotic milking data analysis
+
+* Machine Learning & Data Analysis
+
+  * Model development with SVM, XGBoost, CNNs, RNNs/LSTMs
+  * Hyperparameter tuning with GridSearchCV
+  * ROC-AUC, sensitivity/specificity evaluation
+  * Bootstrapping and time series modeling
+
+* Programming & Tools
+
+  * Python (Pandas, NumPy, Scikit-learn, PyTorch, OpenCV)
+  * R (ggplot2, mixed effect models, statistical analysis)
+  * Bash/WSL/Linux workflows
+  * Git/GitHub version control, GitHub Pages/Jekyll site deployment
+
+* Teaching & Communication
+
+  * Graduate-level teaching assistantship experience
+  * Conference presentations (TAMIDS, HPRC, Animal Science)
+  * Student mentorship and technical workshops
+
+* Additional Skills
+
+  * Sensor integration (Arduino, gas and temperature sensors)
+  * Data visualization (Dash, Plotly, ggplot2)
+  * Academic writing and research dissemination
+
   
 Skills
 ======
