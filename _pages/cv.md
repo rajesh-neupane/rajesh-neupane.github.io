@@ -29,17 +29,11 @@ Education
   * Duties include: Research on precision dairy management projects such as lameness detection, panting score quantification, digital dermatitis detection, failed milking analysis, water efficiency in cows, and robotic milking efficiency; data analysis using AI and computer vision; conference presentations and workshops
   * Supervisor: Dr. Paudyal
 
-* Fall 2023: Academic Pages Collaborator
+* 2021-2023: University of Kiel
 
-  * GitHub University (personal/academic website project)
-  * Duties included: Updates and improvements to academic template site, managing GitHub Pages deployment, customizing Jekyll themes
-  * Supervisor: Self-directed
+  * Machine learning approaches to predict lameness in dairy cattle
 
-* 2015: Research Assistant
 
-  * GitHub University (project-based learning)
-  * Duties included: Merging pull requests, tagging issues, contributing to version control workflows
-  * Supervisor: Professor Hub and Professor Git
 
 # Skills
 
@@ -106,4 +100,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
