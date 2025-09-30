@@ -1,12 +1,14 @@
 
 ---
-title: "Teaching Experience: ANSC 108"
+
+title: "ANSC 111 Basic Animal Science"
 collection: teaching
-type: "Course"
-permalink: rajesh-neupane.github.io/_teaching/ANSC 108.md
-venue: "Texas A&M University, Department of Animal Science"
-date: 2024-01-01
-location: "College Station, TX, USA"
+type: "Undergraduate course"
+permalink: rajesh-neupane.github.io/_teaching/ANSC 108-teaching-2.md
+venue: "Texas A&M University"
+date: 2023-2026
+location: "College station Texas "
+
 ---
 
 This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC 108: Basic Animal Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
