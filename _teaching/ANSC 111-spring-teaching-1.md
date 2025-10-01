@@ -1,5 +1,4 @@
----
-
+-----------------------------
 title: "ANSC 111 Basic Animal Science"
 collection: teaching
 type: "Undergraduate course"
