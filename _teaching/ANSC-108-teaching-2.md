@@ -1,17 +1,18 @@
 
-
-title: "ANSC 111 Basic Animal Science"
+---
+title: "Course Title 429"
 collection: teaching
-type: "Undergraduate course"
-permalink: rajesh-neupane.github.io/_teaching/ANSC 111-spring-teaching-1.md
-venue: "Texas A&M University"
-date: 2023-2026
-location: "College station Texas "
+type: "Course"
+permalink: /teaching/2025-spring-ansc429
+venue: "Texas A&M University, Department of Animal Science"
+date: 2025-08-15
+location: "College Station, TX"
+---
 
 
 
 
-This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC 108: Basic Animal Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
+This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC Dairy Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
 
 # Responsibilities
 
