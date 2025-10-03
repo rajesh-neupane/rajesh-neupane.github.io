@@ -1,10 +1,10 @@
 ---
-title: "Course Title (e.g., Basic Animal Science - ANSC 108)"
+title: "Course Title ansc 108"
 collection: teaching
 type: "Course"
 permalink: /teaching/2025-spring-ansc108
 venue: "Texas A&M University, Department of Animal Science"
-date: 2025-01-15
+date: 2025-08-15
 location: "College Station, TX"
 ---
 
