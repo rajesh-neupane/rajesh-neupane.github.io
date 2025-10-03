@@ -3,7 +3,7 @@
 title: "Course Title 429"
 collection: teaching
 type: "Course"
-permalink: /teaching/2025-spring-ansc429
+permalink: /teaching/2025-spring-ansc108
 venue: "Texas A&M University, Department of Animal Science"
 date: 2025-08-15
 location: "College Station, TX"
