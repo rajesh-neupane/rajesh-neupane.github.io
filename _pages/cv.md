@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Animal Science Texas A&M University, 2025
-* M.S. in dairy science, University of Kiel, Germany
-* B.S. in Animal Science, Nepal, 
+* Ph.D student in Animal Science- Precision livestock farming- Texas A&M University, 2025
+* M.S. in dairy science - agri engineering, University of Kiel, Germany
+* B.S. in Animal Science, Tribhuvan University, Nepal 
 
 # Work Experience
 
