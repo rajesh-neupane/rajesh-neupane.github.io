@@ -1,12 +1,25 @@
------------------------------
-title: "ANSC 111 Basic Animal Science"
+---
+title: "Course Title 111"
 collection: teaching
-type: "Undergraduate course"
-permalink: rajesh-neupane.github.io/_teaching/ANSC 111-spring-teaching-1.md
-venue: "Texas A&M University"
-date: 2023-2026
-location: "College station Texas "
--------------------------
+type: "Course"
+permalink: /teaching/2025-spring-ansc108
+venue: "Texas A&M University, Department of Animal Science"
+date: 2025-01-15
+location: "College Station, TX"
+---
 
-I taught **ANSC 108: Basic Animal Science**, an undergraduate-level course with an enrollment of 25 students. The course introduced foundational concepts in animal science, covering nutrition, genetics, physiology, reproduction, and animal management practices.
+This course introduces students to the fundamental principles of animal science, 
+covering livestock, companion animals, and management practices.
+
+**My Role:** Teaching Assistant  
+
+**Responsibilities:**  
+- Assisted with lab sessions and grading  
+- Supported student learning during office hours  
+- Helped organize quizzes and assignments  
+
+**Highlights:**  
+- Helped 100+ students strengthen foundational animal science knowledge  
+- Developed supplemental study materials for exams  
+- Coordinated with professors and lab staff to improve course delivery  
 
