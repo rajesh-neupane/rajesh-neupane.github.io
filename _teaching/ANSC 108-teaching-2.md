@@ -1,6 +1,5 @@
-
 ---
-title: "Basic Animal Science (ANSC 108)"
+title: "Course Title (e.g., Basic Animal Science - ANSC 108)"
 collection: teaching
 type: "Course"
 permalink: /teaching/2025-spring-ansc108
@@ -9,29 +8,17 @@ date: 2025-01-15
 location: "College Station, TX"
 ---
 
+This course introduces students to the fundamental principles of animal science, 
+covering livestock, companion animals, and management practices.
 
-This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC 108: Basic Animal Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
+**My Role:** Teaching Assistant  
 
-# Responsibilities
+**Responsibilities:**  
+- Assisted with lab sessions and grading  
+- Supported student learning during office hours  
+- Helped organize quizzes and assignments  
 
-* Assisted the lead instructor with lecture preparation and delivery.
-* Managed student accommodations for online quizzes and exams.
-* Provided one-on-one support and guidance to students during office hours.
-* Graded assignments and exams, ensuring timely and constructive feedback.
-* Helped maintain the online course platform with updated materials and resources.
-
-## Skills Gained
-
-* Classroom management and student engagement techniques.
-* Clear and effective scientific communication.
-* Practical experience with course logistics and academic support.
-* Familiarity with online teaching tools and assessment platforms.
-
-### Key Contributions
-
-* Developed supplementary study materials to aid student understanding of complex topics.
-* Streamlined the process for managing quiz accommodations, improving efficiency for both students and instructors.
-* Assisted in integrating digital resources for interactive learning.
-
-This teaching experience strengthened my abilities in **mentorship, communication, and academic support**, which are essential skills for both research and professional settings in animal science.
-
+**Highlights:**  
+- Helped 100+ students strengthen foundational animal science knowledge  
+- Developed supplemental study materials for exams  
+- Coordinated with professors and lab staff to improve course delivery  
