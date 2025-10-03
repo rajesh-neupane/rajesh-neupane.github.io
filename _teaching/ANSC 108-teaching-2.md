@@ -1,5 +1,5 @@
 ---
-title: "Course Title ansc 108"
+title: "ANSC 108"
 collection: teaching
 type: "Course"
 permalink: /teaching/2025-spring-ansc108
