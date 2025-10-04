@@ -2,7 +2,7 @@
 title: "ANSC 111"
 collection: teaching
 type: "Course"
-permalink: /teaching/2025-spring-ansc108
+permalink: /teaching/2025-spring-ansc111
 venue: "Texas A&M University, Department of Animal Science"
 date: 2025-01-15
 location: "College Station, TX"
