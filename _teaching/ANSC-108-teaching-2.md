@@ -15,7 +15,7 @@ location: "College Station, TX"
 
 This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC Dairy Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
 
-# Responsibilities
+**Responsibilities**
 
 * Assisted the lead instructor with lecture preparation and delivery.
 * Managed student accommodations for online quizzes and exams.
