@@ -1,3 +1,4 @@
+---
 title: 'wood modeling of lactation curve'
 date: 2025-10-04
 permalink: /posts/wood-modeling/
