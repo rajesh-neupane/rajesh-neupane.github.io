@@ -19,6 +19,6 @@ covering livestock, companion animals, and management practices.
 - Helped organize quizzes and assignments  
 
 **Highlights:**  
-- Helped 100+ students strengthen foundational animal science knowledge  
+- Helped 20+ students strengthen foundational animal science knowledge  
 - Developed supplemental study materials for exams  
 - Coordinated with professors and lab staff to improve course delivery  
