@@ -36,5 +36,5 @@ This page highlights my experience as a **Graduate Teaching Assistant** for **AN
 * Streamlined the process for managing quiz accommodations, improving efficiency for both students and instructors.
 * Assisted in integrating digital resources for interactive learning.
 
-This teaching experience strengthened my abilities in **mentorship, communication, and academic support**, which are essential skills for both research and professional settings in animal science.
+
 
