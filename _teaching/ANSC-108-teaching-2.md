@@ -1,4 +1,3 @@
-
 ---
 title: "ANSC 429"
 collection: teaching
@@ -7,15 +6,12 @@ permalink: /teaching/2025-fall-ansc429
 venue: "Texas A&M University, Department of Animal Science"
 date: 2025-08-15
 location: "College Station, TX"
+excerpt: "Graduate Teaching Assistant for ANSC Dairy Science — supported lectures, grading, accommodations, and student engagement."
 ---
-
-
-
-
 
 This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC Dairy Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
 
-**Responsibilities**
+## Responsibilities
 
 * Assisted the lead instructor with lecture preparation and delivery.
 * Managed student accommodations for online quizzes and exams.
@@ -30,11 +26,8 @@ This page highlights my experience as a **Graduate Teaching Assistant** for **AN
 * Practical experience with course logistics and academic support.
 * Familiarity with online teaching tools and assessment platforms.
 
-### Key Contributions
+## Key Contributions
 
 * Developed supplementary study materials to aid student understanding of complex topics.
 * Streamlined the process for managing quiz accommodations, improving efficiency for both students and instructors.
 * Assisted in integrating digital resources for interactive learning.
-
-
-
