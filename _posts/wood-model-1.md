@@ -1,6 +1,10 @@
----
-title: 
-date: 2025-10-04T12:29:13-05:00
+title: 'wood modeling of lactation curve'
+date: 2025-10-04
+permalink: /posts/wood-modeling/
+tags:
+  - dairy
+  - modeling
+  - cows
 ---
 
 # Tutorial: Simulating and Fitting Lactation Curves with the Wood Model
@@ -75,3 +79,5 @@ params = model.make_params(a=15, b=0.1, c=0.001)  # initial guesses
 result = model.fit(milk_yield, params, t=days)
 
 print(result.fit_report())
+
+```
