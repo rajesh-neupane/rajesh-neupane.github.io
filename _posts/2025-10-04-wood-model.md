@@ -1,5 +1,5 @@
 ---
-title: 'wood modeling of lactation curve'
+title: 'Wood modeling of lactation curve'
 date: 2025-10-04
 permalink: /posts/wood-modeling/
 tags:
@@ -8,7 +8,7 @@ tags:
   - cows
 ---
 
-# Tutorial: Simulating and Fitting Lactation Curves with the Wood Model
+Tutorial: Simulating and Fitting Lactation Curves with the Wood Model
 
 ## 1. Introduction
 The lactation curve of a dairy cow represents the daily milk yield (DMY) over the course of lactation. A well-known parametric model for describing this curve is the **Wood model** (Wood, 1967), which captures the rise, peak, and gradual decline of milk yield.  
