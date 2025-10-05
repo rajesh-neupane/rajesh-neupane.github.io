@@ -3,14 +3,5 @@ Repository scan for: /home/rajesh/work/portfolio/rajesh-neupane.github.io
 Markdown files missing YAML front matter:
   - README.md
   - CONTRIBUTING.md
-  - markdown_generator/readme.md
-  - _posts/wood-model-1.md
-
-Files with spaces in their names:
-  - _teaching/ANSC 111-spring-teaching-1.md
-  - _teaching/ANSC 108-teaching-2.md
 
 Uncommitted git changes:
-  ?? _pages/folder-structure-scan.md
-  ?? _posts/wood-model-1.md
-  ?? scripts/scan_repo.py
