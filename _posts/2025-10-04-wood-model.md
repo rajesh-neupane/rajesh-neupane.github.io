@@ -43,7 +43,7 @@ t_{peak} = \frac{b}{c}
 $$\[σ_{max} = a \cdot \left(\frac{b}{c}\right)^b \cdot e^{-b}\]$$
 
 - **Persistency (P)**  
-$$\[P = \frac{σ(t_{peak}+30)}{σ(t_{peak})} \times 100\%\]  
+$$\[P = \frac{σ(t_{peak}+30)}{σ(t_{peak})} \times 100\%\]$$  
 
 Typical persistency values are 94–96%, meaning a 4–6% monthly decline.
 
