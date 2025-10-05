@@ -7,7 +7,6 @@ tags:
   - modeling
   - cows
 ---
-
 Tutorial: Simulating and Fitting Lactation Curves with the Wood Model
 
 ## 1. Introduction
