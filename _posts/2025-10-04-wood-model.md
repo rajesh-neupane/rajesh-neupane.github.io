@@ -21,7 +21,7 @@ This tutorial demonstrates how to simulate lactation data, fit the Wood model us
 
 The Wood model is expressed as:
 
-\ σ_t = a \cdot t^b \cdot e^{-ct}\
+\ σ_t = a \cdot t^b \cdot e^{-ct} \
 
 Where:
 - \(σ_t\) = DMY (kg/day) at lactation day \(t\)  
