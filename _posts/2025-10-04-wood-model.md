@@ -35,9 +35,9 @@ Where:
 From the fitted parameters, we can compute important lactation traits:
 
 - **Peak Lactation Time**  
-\[
+$$\[
 t_{peak} = \frac{b}{c}
-\]
+\]$$
 
 - **Peak Yield**  
 \[
