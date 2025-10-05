@@ -76,3 +76,37 @@ result = model.fit(milk_yield, params, t=days)
 print(result.fit_report())
 
 ```
+
+## 4. We can visualize the fit uisng this
+```python
+plt.figure(figsize=(8,5))
+plt.scatter(days, milk_yield, s=10, alpha=0.6, label="Observed Data")
+plt.plot(days, result.best_fit, 'r-', lw=2, label="Wood Model Fit")
+plt.xlabel("Days in Milk")
+plt.ylabel("Milk Yield (kg/day)")
+plt.legend()
+plt.title("Lactation Curve Fitting with Wood Model")
+plt.show()
+```
+
+## 5. We can now  extract key matrics 
+ 
+```python
+a_fit = result.params['a'].value
+b_fit = result.params['b'].value
+c_fit = result.params['c'].value
+
+# Peak time
+t_peak = b_fit / c_fit
+
+# Peak yield
+sigma_max = a_fit * (t_peak**b_fit) * np.exp(-c_fit*t_peak)
+
+# Persistency (30 days post-peak)
+persistency = (wood_model(t_peak+30, a_fit, b_fit, c_fit) / sigma_max) * 100
+
+print(f"Peak Time: {t_peak:.1f} days")
+print(f"Peak Yield: {sigma_max:.2f} kg/day")
+print(f"Persistency: {persistency:.2f} %")
+```
+
