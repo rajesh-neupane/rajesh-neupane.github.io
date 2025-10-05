@@ -24,10 +24,10 @@ The Wood model is expressed as:
 $$\ σ_t = a \cdot t^b \cdot e^{-ct} \$$
 
 Where:
-- \(σ_t\) = DMY (kg/day) at lactation day \(t\)  
-- \(a\) = scaling factor (initial yield)  
-- \(b\) = growth parameter (rate to peak)  
-- \(c\) = decline parameter (post-peak)  
+-  $$\(σ_t\) = DMY (kg/day) at lactation day \(t\)  
+- $$\(a\) = scaling factor (initial yield)  
+- $$\(b\) = growth parameter (rate to peak)  
+- $$\(c\) = decline parameter (post-peak)  
 
 ---
 
