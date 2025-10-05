@@ -21,7 +21,9 @@ This tutorial demonstrates how to simulate lactation data, fit the Wood model us
 
 The Wood model is expressed as:
 
-$$\ σ_t = a \cdot t^b \cdot e^{-ct} \$$
+$$
+ σ_t = a \cdot t^b \cdot e^{-ct} 
+ $$
 
 Where:
 -  $$\(σ_t\)$$ = DMY (kg/day) at lactation day \(t\)  
@@ -35,15 +37,15 @@ Where:
 From the fitted parameters, we can compute important lactation traits:
 
 - **Peak Lactation Time**  
-$$\[
+$$
 t_{peak} = \frac{b}{c}
-\]$$
+$$
 
 - **Peak Yield**  
-$$\[σ_{max} = a \cdot \left(\frac{b}{c}\right)^b \cdot e^{-b}\]$$
+$$σ_{max} = a \cdot \left(\frac{b}{c}\right)^b \cdot e^{-b}$$
 
 - **Persistency (P)**  
-$$\[P = \frac{σ(t_{peak}+30)}{σ(t_{peak})} \times 100\%\]$$  
+$$P = \frac{σ(t_{peak}+30)}{σ(t_{peak})} \times 100\%$$  
 
 Typical persistency values are 94–96%, meaning a 4–6% monthly decline.
 
