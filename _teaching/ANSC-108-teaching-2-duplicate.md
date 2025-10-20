@@ -8,8 +8,18 @@ date: 2025-08-15
 location: "College Station, TX"
 ---
 
-if you are student to take quiz for 10/20/2025 lecture--  please click the link
-https://docs.google.com/forms/d/e/1FAIpQLSeQirjOD8EK6YR4hpR8lvGRo_XCWtzjtUTBwTi5qFzELo1L_w/viewform?usp=dialog
+If you are a student taking the quiz for **10/20/2025 lecture**, please click the link below:  
+[👉 Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeQirjOD8EK6YR4hpR8lvGRo_XCWtzjtUTBwTi5qFzELo1L_w/viewform?usp=dialog)
+
+This course introduces students to the fundamental principles of animal science, covering livestock, companion animals, and management practices.
+
+**My Role:** Teaching Assistant  
+
+**Responsibilities:**  
+- Assisted with lab sessions and grading  
+- Supported student learning during office hours  
+- Helped organize quizzes and assignments
+
 
 This course introduces students to the fundamental principles of animal science, 
 covering livestock, companion animals, and management practices.
