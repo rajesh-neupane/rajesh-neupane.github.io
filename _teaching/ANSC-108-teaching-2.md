@@ -11,6 +11,9 @@ excerpt: "Graduate Teaching Assistant for ANSC Dairy Science — supported lectu
 
 If you are a student taking the quiz for **10/22/2025 lab**, please click the link below:  
 [👉 Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfS_E0VTRhgUzA16HFadjsl-j5cbSb5M46N0VhklSxjJjWw8w/viewform)
+
+
+
 This page highlights my experience as a **Graduate Teaching Assistant** for **ANSC Dairy Science**, an undergraduate course designed to introduce students to fundamental concepts in animal biology, production systems, and livestock management.
 
 ## Responsibilities
