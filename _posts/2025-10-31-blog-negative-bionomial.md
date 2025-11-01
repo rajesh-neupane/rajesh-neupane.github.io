@@ -178,3 +178,11 @@ Any systematic deviation from uniformity (for example, clustering, skewness, or 
 Using simulated residuals allows for a more robust and interpretable diagnostic check, especially when dealing with **count data**, **non-normal error structures**, or **truncated distributions** like our truncated negative binomial model.
 
 !['Residual nb'](/images/residual_nb.png)
+
+@misc{neupane2025,
+  title        = {Using Truncated Negative Binomial Models for Analyzing Failed Milkings in Dairy Robots: A Monte Carlo Simulation Approach},
+  author       = {Neupane, Rajesh},
+  year         = {2025},
+  howpublished = {Rajesh neupane Blog},
+  url          = {https://rajesh-neupane.github.io/}
+}
