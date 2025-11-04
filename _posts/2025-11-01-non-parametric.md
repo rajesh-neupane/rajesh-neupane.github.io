@@ -1,4 +1,15 @@
-# Why Non-Parametric Tests with Example
+---
+title: ' Non-Parametric Test with Example'
+date: 2025-11-01
+permalink: /posts/non-parametric/
+tags:
+  - dairy
+  - modeling
+  - non-parametric
+---
+
+
+
 
 Non-parametric statistics can be thought of as a set of statistical models that minimize two things:
 1. The number of assumptions.
