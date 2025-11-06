@@ -8,9 +8,6 @@ tags:
   - non-parametric
 ---
 
-
-
-
 Non-parametric statistics can be thought of as a set of statistical models that minimize two things:
 1. The number of assumptions.
 2. The strength of these assumptions.

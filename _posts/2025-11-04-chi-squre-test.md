@@ -9,7 +9,6 @@ tags:
   -categorical
 ---
 
-
 This tutorial employs the *Null Hypothesis Significance Testing (NHST)* framework and the Chi-Square ($\chi^2$) test to analyze categorical data. This approach is an alternative, yet equivalent, method to the two-sample proportion test for categorical data when a large sample size is assumed.
 
 We are analyzing the efficacy of a vaccine against Bovine Respiratory Disease (BRD). Our data is presented in a contingency table, which is a convenient way to display categorical data where rows and columns represent different categories of two categorical variables.
