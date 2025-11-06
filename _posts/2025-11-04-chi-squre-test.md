@@ -6,7 +6,7 @@ tags:
   - dairy
   - binary
   - test
-  -categorical
+  - categorical
 ---
 
 This tutorial employs the *Null Hypothesis Significance Testing (NHST)* framework and the Chi-Square ($\chi^2$) test to analyze categorical data. This approach is an alternative, yet equivalent, method to the two-sample proportion test for categorical data when a large sample size is assumed.
@@ -111,7 +111,7 @@ colnames(BRD_table) <- c("Disease Absent", "Disease Present")
 # Display the resulting matrix
 print(BRD_table)
 ```
-!['BRD table'](/images/brd_table.png)
+![BRD table](/images/brd_table.png)
 
 ### Step 2 : Running the Chi-Square Test 
 ```r
@@ -121,7 +121,7 @@ chisq_result <- chisq.test(BRD_table, correct = FALSE) # Setting correct=FALSE e
 # Display the test results
 print(chisq_result)
 ```
-!['brd_result'](/images/chi_test.png)
+![chi test result](/images/chi_test.png)
 
 ## Step 6: Conclusion 
 The results of the hypothesis test are :
