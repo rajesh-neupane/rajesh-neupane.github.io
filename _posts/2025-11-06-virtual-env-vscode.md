@@ -1,3 +1,14 @@
+---
+title: 'Virtual Environment Connect to VS code jupyter extension'
+date: 2025-11-06
+permalink: /posts/ju-vs/
+tags:
+  - Vscode
+  - Jypyter
+  - Virtual
+  - Environment
+---
+
 🐍 How Editing `settings.json` Helps VS Code Detect Your Python Virtual Environment on Linux & WSL
 
 When working with multiple Python projects, keeping track of different virtual environments (`venv`) can quickly get messy. VS Code (Visual Studio Code) makes this easier — but sometimes it fails to automatically find your environment. Fortunately, the solution is simple: a quick edit to your `settings.json` file.
