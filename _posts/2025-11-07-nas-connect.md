@@ -13,6 +13,10 @@ tags:
 
 ## From Terabytes to Analysis: Securely Connecting Your Synology NAS to HPRC with Globus and Docker
 
+!['nas Image'](/images/nas-image.png)
+Image generated in  Gemeni
+
+
 So, you're like me. You have a *mountain* of data.
 
 In my case, it was terabytes of video data from a recent project, all sitting comfortably on my local Synology NAS. This data wasn't just for show; it needed serious processing. And for serious processing, I needed the big guns: my university's High Performance Research Computing (HPRC) cluster.
