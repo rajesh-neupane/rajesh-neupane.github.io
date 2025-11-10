@@ -7,6 +7,10 @@ venue: "Texas A&M University, Department of Animal Science"
 date: 2025-08-15
 location: "College Station, TX"
 ---
+
+If you are a student taking the quiz for **11/10/2025 lecture**, please click the link below:  
+[👉 Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSerHYRrgVhzotE9kch1o68PGzns4TWAEs8SxzFRfaWf1LpHLg/viewform)
+
 If you are a student taking the quiz for **11/03/2025 lecture**, please click the link below:  
 [👉 Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfjj-nQDXPtyKjWWoXhfqzJFhhd4BPpYAQR05usra2mv6UXZw/viewform)
 
