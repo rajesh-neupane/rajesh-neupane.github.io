@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+An extended version of my curriculum vitae is available [here](https://drive.google.com/file/d/17GZyArz0ziv9TkNX3xhwItb4vRQwmuN6/view?usp=drive_link)
 
 # Rajesh Neupane
 
