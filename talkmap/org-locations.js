@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Machine Learning Approaches to Predict Lameness in Dairy Cattle<br />Data-Driven Intelligent Agricultural Systems Symposium; College Station, TX, USA",
+    30.6183939,
+    -96.3455991
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Characterizing Failed Milking Events in a Robotic Milking System<br />American Dairy Science Association (ADSA) Annual Meeting; West Palm Beach, FL, USA",
+    26.715364,
+    -80.0532942
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Evaluating the Effects of Heat Stress on Robotic Milking Systems<br />American Dairy Science Association (ADSA) Annual Meeting; West Palm Beach, FL, USA",
+    26.715364,
+    -80.0532942
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Use of Machine Learning Tools for Disease Surveillance in Dairy Cattle<br />SWEETER Winter Computing Festival; College Station, TX, USA",
+    30.6183939,
+    -96.3455991
   ]
 ];
