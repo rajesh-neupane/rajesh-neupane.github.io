@@ -81,21 +81,34 @@ I am a Ph.D. student in Animal Science at Texas A&M University specializing in *
 ## Publications & Conference Presentations
 
 ### Journal Articles
+- **Evaluating machine learning algorithms based on thermal imaging and milk-based parameters to identify subclinical mastitis in dairy cows**  
+  *Neupane R., Paudyal S., Shrestha B., Chiang H.-I., Aryal A.*  
+  *Veterinary Quarterly*, Jun 2026.
+- **Characterization of failed milking events in a voluntary milking system**  
+  *Neupane R., Ceja G., Daigle C., Tedeschi L. O., Khanal P., Valeris-Chacin R., Xu Z., Paudyal S.*  
+  *Journal of Dairy Science*, Apr 2026 — [10.3168/jds.2025-28232](https://doi.org/10.3168/jds.2025-28232)
+- **Dynamics of culling risk of Holstein cows in U.S. organic dairy herds**  
+  *Shrestha B., Pinedo P. J., Neupane R., Valeris-Chacin R., Piñeiro J. M., Paudyal S.*  
+  *Journal of Dairy Science*, Apr 2026 — [10.3168/jds.2025-28205](https://doi.org/10.3168/jds.2025-28205)
+- **Impact of Summer Calving on Milk Production, Reproduction, and Culling Risk in Organic Dairy Cattle**  
+  *Shrestha B., Neupane R., Paudyal S.*  
+  *Ruminants*, Mar 2026 — [10.3390/ruminants6010000](https://doi.org/10.3390/ruminants6010000) (approximate link)
+- **Impact of pen move events on rumination time, milk yield, and water intake in dairy cows**  
+  *Neupane R., Fagundo N., Paudyal S.*  
+  *JDS Communications*, Feb 2026.
 - **Evaluating Machine Learning Algorithms to Predict Lameness in Dairy Cattle**  
   *Neupane R., Aryal A., Haeussermann A., Hartung E., Pinedo P., Paudyal S.*  
   *PLoS ONE*, Jul 2024 — [10.1371/journal.pone.0301167](https://doi.org/10.1371/journal.pone.0301167)
 
 ### Extended Abstracts & Conference Proceedings
-- *Computer Vision for Detection of Digital Dermatitis in Dairy Cattle* — USPLF 2025, ADSA 2025  
-- *AI-Based Heat Stress Scoring in Dairy Cattle via Computer Vision* — USPLF 2025, ADSA 2025  
+- *Computer Vision for Detection of Digital Dermatitis in Dairy Cattle* — USPLF 2025, ADSA 2025
+- *AI-Based Heat Stress Scoring in Dairy Cattle via Computer Vision* — USPLF 2025, ADSA 2025
 
 ### Presentations & Posters
-- **Characterizing Failed Milking Events in a Robotic Milking System** — Oral Presentation, ADSA 2024  
-- **Evaluating the Effects of Heat Stress on Robotic Milking Systems** — Poster Presentation, ADSA 2024  
-- **Machine Learning Approaches to Predict Lameness in Dairy Cattle** — Poster, Data-Driven Intelligent Agricultural Systems Symposium 2024  
-- **Use of Machine Learning Tools for Disease Surveillance in Dairy Cattle** — Oral Presentation, SWEETER Winter Computing Festival 2023  
-
-*In preparation:* Cohort Study on Failed Milkings in Robotic Systems — *Neupane, et al.*
+- **Characterizing Failed Milking Events in a Robotic Milking System** — Oral Presentation, ADSA 2024
+- **Evaluating the Effects of Heat Stress on Robotic Milking Systems** — Poster Presentation, ADSA 2024
+- **Machine Learning Approaches to Predict Lameness in Dairy Cattle** — Poster, Data-Driven Intelligent Agricultural Systems Symposium 2024
+- **Use of Machine Learning Tools for Disease Surveillance in Dairy Cattle** — Oral Presentation, SWEETER Winter Computing Festival 2023
 
 ---
 
