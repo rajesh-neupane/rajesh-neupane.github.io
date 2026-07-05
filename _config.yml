@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Rajesh Neupane"
+title                    : "Rajesh Neupane, DVM"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Rajesh Neupane"
+description              : &description "Rajesh Neupane's Academic Portfolio | Veterinarian & Data Scientist in Precision Livestock Health Analytics"
 url                      : "https://rajesh-neupane.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rajesh-neupane/rajesh-neupane.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rajesh Neupane"
+  name             : "Rajesh Neupane, DVM"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student Dairy Science (Computer vision/Machine Learning)"
+  bio              : "Veterinarian & Data Scientist | PhD Candidate in Precision Dairy Health & AI"
   location         : "College Station, TX, 77840"
   employer         : "Texas A&M University"
   uri              : # URL

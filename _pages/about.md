@@ -1,25 +1,34 @@
 ---
 permalink: /
-title: "Rajesh Neupane"
+title: "Rajesh Neupane, DVM"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Rajesh Neupane**, a graduate researcher and teaching assistant at **Texas A&M University**, working in the field of **precision dairy management**. My research focuses on developing **AI- and sensor-based tools** to improve animal health, welfare, and productivity in modern dairy systems.
+I am **Rajesh Neupane**, a licensed veterinarian, Ph.D. candidate, and data scientist at **Texas A&M University** specializing in **precision livestock health analytics**. My work bridges the gap between **clinical veterinary medicine, animal genetics, and artificial intelligence**. 
 
-My current projects include:
+By translating physiological sensor signals—such as thermal imaging, accelerometers, and robotic-milking telemetry (Lely, DeLaval, AfiMilk)—into diagnostically defensible outputs, I develop machine learning and computer vision frameworks to improve animal welfare, disease surveillance, and herd production efficiency.
 
-* **Lameness detection**: Using computer vision and machine learning for the preclinical detection of gait abnormalities in dairy cattle.
-* **Heat stress quantification**: Designing systems to estimate panting scores from video data to monitor animal responses under heat load.
-* **Water efficiency in dairy cows**: Analyzing data from rumen bolus sensors to identify water-efficient cows and reduce water use in dairy operations.
-* **Sensor development**: Building Arduino and raspberry pi based sensors for dairy farming industry.
-* **Robotic milking efficiency**: Studying failed milking attempts, teat connection patterns, and automation performance.
-* **Digital dermatitis detection**: Applying computer vision for early detection of hoof lesions to improve animal welfare.
+---
 
-In addition to research, I serve as a **teaching assistant for ANSC 107 and ANSC 108 (Basic Animal Science)**, where I support student learning, manage online accommodations, and lead discussions. I also actively participate in the **Nepalese Student Association at Texas A&M University**, helping to organize events and community activities.
+### Key Areas of Expertise & Experience
 
-I am passionate about combining **data science, sensor technologies, and animal science** to solve real-world challenges in livestock production. My long-term goal is to contribute to sustainable, resilient, and welfare-friendly livestock farming systems.
+* 🩺 **Clinical Veterinary Medicine & ML**: Licensed veterinarian (Nepal Veterinary Council, License No. 1330). I design clinical ground-truth labeling protocols and validate disease detection models against actual clinical outcomes using diagnostic metrics (sensitivity, specificity, ROC).
+* 🧬 **Animal Genetics & Robotics Data**: Experience mining and analyzing large-scale robotic milking sensor datasets (~80M records across 150+ commercial herds with Lely systems at Genus ABS) to develop novel phenotypes and estimate genetic parameters.
+* 👁️ **Computer Vision & Deep Learning**: Deploying state-of-the-art models (YOLOv8/v11, CNNs, semantic/instance segmentation) for early detection of digital dermatitis hoof lesions and real-time behavioral monitoring.
+* 🌡️ **Physiological Time-Series**: Engineering features from accelerometer, rumen bolus, and thermal sensor data to identify lameness, acute physiological heat stress, and subclinical mastitis.
+* 🤖 **Smart Dairy Systems**: Modeling lactation curves, THI-adjusted milk response, rumination time, and water efficiency metrics to build decision-support tools.
 
-Outside of academics, I enjoy exploring agricultural innovations, engaging with community organizations, and reflecting on the future of **small family farms vs. corporate farming systems**—a topic I deeply care about in terms of food security and resilience.
+---
+
+### Recent Projects & Leadership
+
+* **Genetics Data Analytics Intern (Genus ABS)**: Translating continuous robotic-milking sensor telemetry into genetic trait selections.
+* **Graduate Researcher (TAMU Precision Dairy Lab)**: Layering multi-sensor arrays (rumination, water intake, body temperature) to distinguish true animal health events from sensor noise.
+* **Data Science Ambassador (TAMIDS)**: Organizing seminars on Agro-Cybersecurity and hosting workshops on computer vision and accelerometer modeling.
+
+I am passionate about combining **data science, sensor technologies, and animal science** to solve real-world challenges in global food systems, helping to build resilient, welfare-friendly, and sustainable livestock farming infrastructure.
+
+Outside of academics, I enjoy exploring agricultural innovations, engaging with community organizations, and reflecting on the future of small family farms vs. corporate farming systems—a topic I deeply care about in terms of food security and resilience.

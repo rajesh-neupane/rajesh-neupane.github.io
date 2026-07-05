@@ -41,3 +41,210 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   PREMIUM CUSTOM STYLES (Catchy/Modern Overrides)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* Color overrides */
+:root {
+  --global-link-color: #0d9488; /* Modern Teal representing Vet & Agri-tech */
+  --global-link-color-hover: #0f766e;
+  --global-link-color-visited: #14b8a6;
+  --global-text-color: #334155;
+  --global-bg-color: #f8fafc; /* Sleek cool white/gray */
+  --global-border-color: #e2e8f0;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", -apple-system, sans-serif !important;
+  background-color: var(--global-bg-color) !important;
+  color: var(--global-text-color) !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Outfit", sans-serif !important;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+  letter-spacing: -0.02em;
+}
+
+/* Glassmorphic navigation header */
+.masthead {
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8) !important;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.masthead__menu-item a {
+  font-family: "Outfit", sans-serif !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+  font-size: 0.85rem !important;
+  letter-spacing: 0.05em;
+  color: #475569 !important;
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: var(--global-link-color) !important;
+  }
+}
+
+/* Interactive Sidebar */
+.sidebar {
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 16px !important;
+  padding: 1.75rem !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.03) !important;
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05) !important;
+  }
+}
+
+.author__avatar img {
+  border-radius: 50% !important;
+  border: 4px solid #ccfbf1 !important;
+  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.12) !important;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  
+  &:hover {
+    transform: scale(1.06) rotate(2deg);
+  }
+}
+
+.author__name {
+  font-family: "Outfit", sans-serif !important;
+  font-size: 1.4rem !important;
+  color: #0f172a !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  font-size: 0.88rem !important;
+  color: #475569 !important;
+  line-height: 1.45 !important;
+  margin-top: 0.5rem;
+}
+
+.author__urls-wrapper button {
+  background-color: var(--global-link-color) !important;
+  border-color: var(--global-link-color) !important;
+  border-radius: 8px !important;
+  font-family: "Outfit", sans-serif !important;
+  font-weight: 600 !important;
+  padding: 0.6rem 1.2rem !important;
+  box-shadow: 0 4px 6px rgba(13, 148, 136, 0.15) !important;
+  transition: all 0.2s ease !important;
+  
+  &:hover {
+    background-color: var(--global-link-color-hover) !important;
+    transform: translateY(-1px);
+    box-shadow: 0 6px 12px rgba(13, 148, 136, 0.2) !important;
+  }
+}
+
+/* Premium Publication, Talk, and Portfolio Cards */
+.archive__item {
+  background: #ffffff !important;
+  border: 1px solid #f1f5f9 !important;
+  border-radius: 14px !important;
+  padding: 1.75rem !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02), 0 1px 3px rgba(0, 0, 0, 0.03) !important;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.25s ease !important;
+  margin-bottom: 1.5rem !important;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 20px rgba(13, 148, 136, 0.06), 0 4px 10px rgba(0, 0, 0, 0.03) !important;
+    border-color: #99f6e4 !important; /* Soft teal glow */
+  }
+}
+
+.archive__item-title {
+  font-family: "Outfit", sans-serif !important;
+  font-size: 1.25rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+  line-height: 1.35 !important;
+  
+  a {
+    color: #0f172a !important;
+    text-decoration: none !important;
+    font-weight: 700 !important;
+    transition: color 0.2s ease;
+    
+    &:hover {
+      color: var(--global-link-color) !important;
+    }
+  }
+}
+
+.archive__item-excerpt {
+  font-size: 0.95rem !important;
+  color: #475569 !important;
+  line-height: 1.6 !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Button & Link updates */
+.btn {
+  border-radius: 8px !important;
+  font-family: "Outfit", sans-serif !important;
+  font-weight: 600 !important;
+  transition: all 0.2s ease !important;
+}
+
+.page__content a {
+  text-decoration: none !important;
+  border-bottom: 1px dashed var(--global-link-color);
+  transition: all 0.2s ease;
+  
+  &:hover {
+    border-bottom-style: solid;
+    color: var(--global-link-color-hover) !important;
+  }
+}
+
+.page__content .btn, .archive__item a.btn {
+  border-bottom: none !important;
+}
+
+/* Custom layout container margins */
+#main {
+  padding-top: 2rem !important;
+}
+
+/* CV list styling enhancements */
+.page__content h2 {
+  border-bottom: 2px solid #f1f5f9;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  position: relative;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 60px;
+    height: 2px;
+    background-color: var(--global-link-color);
+  }
+}
