@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Rajesh Neupane, DVM"
+title                    : "Rajesh Neupane"
 title_separator          : "-"
 name                     : &name "Rajesh Neupane"
-description              : &description "Rajesh Neupane's Academic Portfolio | Veterinarian & Data Scientist in Precision Livestock Health Analytics"
+description              : &description "Rajesh Neupane | Applied Machine Learning Engineer · PhD Candidate in AI for Precision Agriculture · Building production ML systems for animal health, sensor data, and computer vision"
 url                      : "https://rajesh-neupane.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "rajesh-neupane/rajesh-neupane.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rajesh Neupane, DVM"
+  name             : "Rajesh Neupane"
   pronouns         : # example: "she/her"  
-  bio              : "Veterinarian & Data Scientist | PhD Candidate in Precision Dairy Health & AI"
+  bio              : "Applied Machine Learning Engineer · PhD Candidate · Building AI for agriculture — computer vision, sensor fusion, and predictive models for real-world livestock systems"
   location         : "College Station, TX, 77840"
   employer         : "Texas A&M University"
   uri              : # URL
@@ -141,7 +141,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "profile.png"
-og_description           : "Rajesh Neupane's Academic Portfolio | Veterinarian & Data Scientist in Precision Livestock Health Analytics"
+og_description           : "Applied Machine Learning Engineer & PhD Candidate — Computer vision, sensor data, and ML for precision agriculture. Built production disease-detection models deployed across 150+ commercial dairy herds."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

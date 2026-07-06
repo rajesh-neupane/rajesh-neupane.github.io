@@ -11,7 +11,7 @@ redirect_from:
 
 An extended version of my curriculum vitae is available [here](https://drive.google.com/file/d/17GZyArz0ziv9TkNX3xhwItb4vRQwmuN6/view?usp=drive_link)
 
-# Rajesh Neupane, DVM
+# Rajesh Neupane
 
 **College Station, TX**  
 📧 [rajesh@tamu.edu](mailto:rajesh@tamu.edu) | 📞 (979) 739-8174  
@@ -21,7 +21,7 @@ An extended version of my curriculum vitae is available [here](https://drive.goo
 
 ## Summary
 
-Licensed veterinarian (Nepal Veterinary Council) and Ph.D. candidate with five years of applied research at the intersection of clinical veterinary medicine and machine learning. Direct experience building ground-truth disease datasets, training and validating detection models against clinical outcomes, and translating physiological sensor signals (thermal imaging, accelerometer, robotic-milking telemetry) into diagnostically defensible outputs. Published record spans subclinical mastitis detection, lameness prediction, and behavioral biomarkers of acute physiological stress—specializing in building production disease-detection algorithms from continuous biometric and genetic data.
+Applied Machine Learning Engineer and Ph.D. candidate with 5+ years building production ML systems for agriculture. Expertise spans the full ML lifecycle: sensor data pipelines (accelerometer, thermal, robotic-milking telemetry), computer vision (YOLOv8/v11, segmentation), time-series modeling, and clinical validation against ground-truth labels. Published research in lameness prediction, mastitis detection, and heat-stress quantification. Proven ability to deploy models that work at scale — processing 80M+ records across 150+ commercial herds. Seeking applied AI engineering roles where I can build ML solutions that improve animal health, farm efficiency, and food system resilience.
 
 ---
 

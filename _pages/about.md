@@ -1,34 +1,35 @@
 ---
 permalink: /
-title: "Rajesh Neupane, DVM"
+title: "Rajesh Neupane"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Rajesh Neupane**, a licensed veterinarian, Ph.D. candidate, and data scientist at **Texas A&M University** specializing in **precision livestock health analytics**. My work bridges the gap between **clinical veterinary medicine, animal genetics, and artificial intelligence**. 
+I am an **Applied Machine Learning Engineer** and **PhD Candidate** at **Texas A&M University** building production-grade AI systems for agriculture. My work spans the full ML lifecycle — from sensor data pipelines and ground-truth labeling to model deployment and validation — with real-world impact across **150+ commercial dairy herds**.
 
-By translating physiological sensor signals—such as thermal imaging, accelerometers, and robotic-milking telemetry (Lely, DeLaval, AfiMilk)—into diagnostically defensible outputs, I develop machine learning and computer vision frameworks to improve animal welfare, disease surveillance, and herd production efficiency.
-
----
-
-### Key Areas of Expertise & Experience
-
-* 🩺 **Clinical Veterinary Medicine & ML**: Licensed veterinarian (Nepal Veterinary Council, License No. 1330). I design clinical ground-truth labeling protocols and validate disease detection models against actual clinical outcomes using diagnostic metrics (sensitivity, specificity, ROC).
-* 🧬 **Animal Genetics & Robotics Data**: Experience mining and analyzing large-scale robotic milking sensor datasets (~80M records across 150+ commercial herds with Lely systems at Genus ABS) to develop novel phenotypes and estimate genetic parameters.
-* 👁️ **Computer Vision & Deep Learning**: Deploying state-of-the-art models (YOLOv8/v11, CNNs, semantic/instance segmentation) for early detection of digital dermatitis hoof lesions and real-time behavioral monitoring.
-* 🌡️ **Physiological Time-Series**: Engineering features from accelerometer, rumen bolus, and thermal sensor data to identify lameness, acute physiological heat stress, and subclinical mastitis.
-* 🤖 **Smart Dairy Systems**: Modeling lactation curves, THI-adjusted milk response, rumination time, and water efficiency metrics to build decision-support tools.
+I combine **computer vision, time-series modeling, and sensor fusion** to solve high-stakes problems in animal health, welfare, and food system resilience. Whether it's detecting lameness from accelerometer patterns, classifying hoof lesions with YOLOv11, or modeling physiological stress from multi-sensor arrays, I build models that work in the field — not just the lab.
 
 ---
 
-### Recent Projects & Leadership
+### What I Build
 
-* **Genetics Data Analytics Intern (Genus ABS)**: Translating continuous robotic-milking sensor telemetry into genetic trait selections.
-* **Graduate Researcher (TAMU Precision Dairy Lab)**: Layering multi-sensor arrays (rumination, water intake, body temperature) to distinguish true animal health events from sensor noise.
-* **Data Science Ambassador (TAMIDS)**: Organizing seminars on Agro-Cybersecurity and hosting workshops on computer vision and accelerometer modeling.
+* 👁️ **Computer Vision**: YOLOv8/v11, CNNs, segmentation models for real-time disease detection and behavioral monitoring from on-farm imagery
+* 📊 **Sensor ML**: Accelerometer classification, thermal imaging analysis, time-series forecasting on streaming IoT sensor data (Lely, DeLaval, AfiMilk)
+* 🧬 **Big Data & Genetics**: Analyzed ~80M records across 150+ commercial herds to develop novel phenotypes and genetic parameters
+* 🤖 **Production Models**: Deployed ML pipelines for lameness prediction, mastitis detection, and heat stress quantification — validated against clinical ground truth
+* 🛠️ **Full Stack ML**: PyTorch, TensorFlow, Python, SQL, HPC/Slurm, Docker — from data engineering to model serving
 
-I am passionate about combining **data science, sensor technologies, and animal science** to solve real-world challenges in global food systems, helping to build resilient, welfare-friendly, and sustainable livestock farming infrastructure.
+---
 
-Outside of academics, I enjoy exploring agricultural innovations, engaging with community organizations, and reflecting on the future of small family farms vs. corporate farming systems—a topic I deeply care about in terms of food security and resilience.
+### Impact & Experience
+
+* **Genetics Data Analytics Intern @ Genus ABS**: Built ML pipelines processing robotic-milking sensor data from 150+ commercial herds to drive genetic trait selection
+* **Graduate Researcher @ TAMU Precision Dairy Lab**: Developed multi-sensor fusion models (rumination, water intake, temperature) that distinguish true health events from sensor noise
+* **Data Science Ambassador @ TAMIDS**: Led workshops on computer vision and accelerometer modeling; organized Agro-Cybersecurity seminar on data integrity in livestock systems
+* **R&D Intern @ STgenetics**: Built ground-truth workflows and optimized ML pipelines for field-deployed livestock monitoring hardware
+
+I'm passionate about deploying **applied AI at scale in agriculture** — building models that reduce disease, improve welfare, and make food production more sustainable. I'm actively seeking opportunities as an **Applied ML/AI Engineer** where I can bring computer vision, sensor analytics, and production ML expertise to agricultural technology.
+
+Outside of work, I explore ag-tech innovations, contribute to open-source ML projects, and think deeply about how AI can bridge the gap between smallholder farms and industrial-scale agriculture.
