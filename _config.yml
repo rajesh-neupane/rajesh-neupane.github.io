@@ -107,7 +107,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -135,19 +135,21 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "rajeshneupane7"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.png"
+og_description           : "Rajesh Neupane's Academic Portfolio | Veterinarian & Data Scientist in Precision Livestock Health Analytics"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Rajesh Neupane"
+  links:
+    - "https://scholar.google.com/citations?user=fgAvAOMAAAAJ&hl=en"
+    - "https://github.com/rajeshneupane7"
 
 
 # Analytics

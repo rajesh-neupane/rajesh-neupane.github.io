@@ -21,11 +21,11 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
+        "username": "rajeshneupane7",
         "url": "https://github.com/rajeshneupane7"
       }
     ]
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Texas A&M University",
+      "area": "Ph.D in Animal Science (Precision Dairy Health Analytics)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Texas A&M University",
+      "area": "M.S. in Animal Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Agriculture and Forestry University, Nepal",
+      "area": "Doctor of Veterinary Medicine (DVM)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2013",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }

@@ -48,14 +48,24 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
 
-/* Color overrides */
+/* Color overrides - light mode */
 :root {
-  --global-link-color: #0d9488; /* Modern Teal representing Vet & Agri-tech */
+  --global-link-color: #0d9488;
   --global-link-color-hover: #0f766e;
   --global-link-color-visited: #14b8a6;
   --global-text-color: #334155;
-  --global-bg-color: #f8fafc; /* Sleek cool white/gray */
+  --global-bg-color: #f8fafc;
   --global-border-color: #e2e8f0;
+}
+
+/* Color overrides - dark mode */
+html[data-theme="dark"] {
+  --global-link-color: #2dd4bf;
+  --global-link-color-hover: #5eead4;
+  --global-link-color-visited: #99f6e4;
+  --global-text-color: #e2e8f0;
+  --global-bg-color: #0f172a;
+  --global-border-color: #1e293b;
 }
 
 body {
@@ -63,6 +73,7 @@ body {
   background-color: var(--global-bg-color) !important;
   color: var(--global-text-color) !important;
   -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -70,6 +81,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700 !important;
   color: #0f172a !important;
   letter-spacing: -0.02em;
+}
+
+html[data-theme="dark"] h1, html[data-theme="dark"] h2, html[data-theme="dark"] h3, html[data-theme="dark"] h4, html[data-theme="dark"] h5, html[data-theme="dark"] h6 {
+  color: #f1f5f9 !important;
 }
 
 /* Glassmorphic navigation header */
@@ -82,6 +97,11 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   z-index: 1000;
   transition: all 0.3s ease;
+}
+
+html[data-theme="dark"] .masthead {
+  background-color: rgba(15, 23, 42, 0.85) !important;
+  border-bottom: 1px solid rgba(30, 41, 59, 0.8) !important;
 }
 
 .masthead__inner-wrap {
@@ -103,6 +123,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+html[data-theme="dark"] .masthead__menu-item a {
+  color: #94a3b8 !important;
+}
+
 /* Interactive Sidebar */
 .sidebar {
   background: #ffffff !important;
@@ -115,6 +139,11 @@ h1, h2, h3, h4, h5, h6 {
   &:hover {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05) !important;
   }
+}
+
+html[data-theme="dark"] .sidebar {
+  background: #1e293b !important;
+  border-color: #334155 !important;
 }
 
 .author__avatar img {
@@ -136,11 +165,19 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.01em;
 }
 
+html[data-theme="dark"] .author__name {
+  color: #f1f5f9 !important;
+}
+
 .author__bio {
   font-size: 0.88rem !important;
   color: #475569 !important;
   line-height: 1.45 !important;
   margin-top: 0.5rem;
+}
+
+html[data-theme="dark"] .author__bio {
+  color: #94a3b8 !important;
 }
 
 .author__urls-wrapper button {
@@ -173,8 +210,13 @@ h1, h2, h3, h4, h5, h6 {
   &:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 20px rgba(13, 148, 136, 0.06), 0 4px 10px rgba(0, 0, 0, 0.03) !important;
-    border-color: #99f6e4 !important; /* Soft teal glow */
+    border-color: #99f6e4 !important;
   }
+}
+
+html[data-theme="dark"] .archive__item {
+  background: #1e293b !important;
+  border-color: #334155 !important;
 }
 
 .archive__item-title {
@@ -196,11 +238,19 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+html[data-theme="dark"] .archive__item-title a {
+  color: #f1f5f9 !important;
+}
+
 .archive__item-excerpt {
   font-size: 0.95rem !important;
   color: #475569 !important;
   line-height: 1.6 !important;
   margin-bottom: 1rem !important;
+}
+
+html[data-theme="dark"] .archive__item-excerpt {
+  color: #94a3b8 !important;
 }
 
 /* Button & Link updates */
