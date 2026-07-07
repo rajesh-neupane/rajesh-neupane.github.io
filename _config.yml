@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "rajeshneupane7"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -150,6 +150,7 @@ social:
   links:
     - "https://scholar.google.com/citations?user=fgAvAOMAAAAJ&hl=en"
     - "https://github.com/rajeshneupane7"
+    - "https://linkedin.com/in/rajeshneupane7"
 
 
 # Analytics

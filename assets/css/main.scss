@@ -281,6 +281,78 @@ html[data-theme="dark"] .archive__item-excerpt {
   padding-top: 2rem !important;
 }
 
+/* Open to Work banner */
+.open-to-work-banner {
+  background: linear-gradient(135deg, #0d9488, #0f766e);
+  color: #fff;
+  padding: 1.25rem 1.5rem;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.open-to-work-banner span {
+  font-size: 1rem;
+  font-weight: 500;
+  flex: 1;
+}
+
+.open-to-work-banner .btn {
+  background: #fff;
+  color: #0d9488 !important;
+  border: none;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.open-to-work-banner .btn:hover {
+  background: #ccfbf1;
+  color: #0f766e !important;
+}
+
+html[data-theme="dark"] .open-to-work-banner {
+  background: linear-gradient(135deg, #115e59, #134e4a);
+}
+
+/* Tech stack badges */
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.tech-badge {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: "JetBrains Mono", "SF Mono", monospace;
+  letter-spacing: 0.02em;
+}
+
+.tech-badge.python { background: #3776AB; color: #fff; }
+.tech-badge.pytorch { background: #EE4C2C; color: #fff; }
+.tech-badge.tensorflow { background: #FF6F00; color: #fff; }
+.tech-badge.cv { background: #5C3EE8; color: #fff; }
+.tech-badge.yolo { background: #00CC66; color: #fff; }
+.tech-badge.sklearn { background: #F7931E; color: #fff; }
+.tech-badge.sql { background: #4479A1; color: #fff; }
+.tech-badge.docker { background: #2496ED; color: #fff; }
+.tech-badge.hpc { background: #6C2D82; color: #fff; }
+.tech-badge.mlflow { background: #0194E2; color: #fff; }
+.tech-badge.git { background: #F05032; color: #fff; }
+.tech-badge.R { background: #276DC3; color: #fff; }
+
+html[data-theme="dark"] .tech-badge {
+  opacity: 0.9;
+}
+
 /* CV list styling enhancements */
 .page__content h2 {
   border-bottom: 2px solid #f1f5f9;
