@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="open-to-work-banner">
   <span>🟢 <strong>Open to Applied ML / AI Engineer roles</strong> — Available Summer 2026 · College Station, TX / Remote</span>
-  <a href="https://drive.google.com/file/d/17GZyArz0ziv9TkNX3xhwItb4vRQwmuN6/view" class="btn btn--primary" target="_blank">📄 Resume in 1 click</a>
+  <a href="/resume/" class="btn btn--primary">📄 Resume in 1 click</a>
 </div>
 
 <div class="hero-headline">
@@ -17,18 +17,18 @@ redirect_from:
 </div>
 <p class="hero-sub">
   <strong>Rajesh Neupane</strong> — Applied ML Engineer & PhD Candidate @ Texas A&M.<br/>
-  Computer vision + sensor ML for animal health, deployed across <strong>150+ commercial herds</strong> and <strong>80M+ records</strong>.
+  Computer vision + sensor ML for animal health, built on data from <strong>150+ commercial herds</strong> and <strong>80M+ records</strong>.
 </p>
 
 <div class="hero-cta">
   <a href="/portfolio/" class="btn btn--primary btn--large">🚀 See My Work</a>
-  <a href="https://drive.google.com/file/d/17GZyArz0ziv9TkNX3xhwItb4vRQwmuN6/view" class="btn btn--inverse btn--large" target="_blank">📄 Resume</a>
+  <a href="/resume/" class="btn btn--inverse btn--large">📄 Resume</a>
   <a href="mailto:rajeshneupane7@gmail.com" class="btn btn--info btn--large">✉️ Hire Me</a>
 </div>
 
 <div class="stats-grid">
   <div class="stat-card"><div class="stat-number">80M+</div><div class="stat-label">sensor records processed</div></div>
-  <div class="stat-card"><div class="stat-number">150+</div><div class="stat-label">commercial herds impacted</div></div>
+  <div class="stat-card"><div class="stat-number">150+</div><div class="stat-label">commercial herds analyzed</div></div>
   <div class="stat-card"><div class="stat-number">2</div><div class="stat-label">PyPI packages owned</div></div>
 </div>
 

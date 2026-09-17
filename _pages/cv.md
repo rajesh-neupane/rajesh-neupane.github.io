@@ -21,7 +21,7 @@ An extended version of my curriculum vitae is available [here](https://drive.goo
 
 ## Summary
 
-Applied Machine Learning Engineer and Ph.D. candidate with 5+ years building production ML systems for agriculture. Expertise spans the full ML lifecycle: sensor data pipelines (accelerometer, thermal, robotic-milking telemetry), computer vision (YOLOv8/v11, segmentation), time-series modeling, and clinical validation against ground-truth labels. Published research in lameness prediction, mastitis detection, and heat-stress quantification. Proven ability to deploy models that work at scale — processing 80M+ records across 150+ commercial herds. Seeking applied AI engineering roles where I can build ML solutions that improve animal health, farm efficiency, and food system resilience.
+Applied Machine Learning Engineer and Ph.D. candidate with 5+ years building production ML systems for agriculture. Expertise spans the full ML lifecycle: sensor data pipelines (accelerometer, thermal, robotic-milking telemetry), computer vision (YOLOv8/v11, segmentation), time-series modeling, and clinical validation against ground-truth labels. Published research in lameness prediction, mastitis detection, and heat-stress quantification. Hands-on at scale — processed 80M+ sensor records across 150+ commercial herds. Seeking applied AI engineering roles where I can build ML solutions that improve animal health, farm efficiency, and food system resilience.
 
 ---
 

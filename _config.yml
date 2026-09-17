@@ -141,7 +141,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "profile.png"
-og_description           : "Applied Machine Learning Engineer & PhD Candidate — Computer vision, sensor data, and ML for precision agriculture. Built production disease-detection models deployed across 150+ commercial dairy herds."
+og_description           : "Applied Machine Learning Engineer & PhD Candidate — Computer vision, sensor data, and ML for precision agriculture. Processed 80M+ sensor records from 150+ commercial dairy herds."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
