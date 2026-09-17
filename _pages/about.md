@@ -29,7 +29,6 @@ redirect_from:
 <div class="stats-grid">
   <div class="stat-card"><div class="stat-number">80M+</div><div class="stat-label">sensor records processed</div></div>
   <div class="stat-card"><div class="stat-number">150+</div><div class="stat-label">commercial herds impacted</div></div>
-  <div class="stat-card"><div class="stat-number">4</div><div class="stat-label">peer-reviewed papers</div></div>
   <div class="stat-card"><div class="stat-number">2</div><div class="stat-label">PyPI packages owned</div></div>
 </div>
 
