@@ -1,22 +1,20 @@
 ---
-title: "Highly Optimized Data Engineering Pipeline"
-excerpt: "Designing a unified pipeline to merge, clean, and prepare heterogeneous data from sensors and loggers for analysis.<br/><img src='/images/data-pipeline.png'>"
+title: "One Pipeline for 4 Messy Sensor Streams"
+excerpt: "Milking + rumen + accelerometer + barn data → one clean, ML-ready dataset. 10x less wrangling.<br/><img src='/images/data-pipeline.png'>"
 collection: portfolio
 ---
 
-## Overview
-Data collection in precision agriculture results in fragmented and messy data. This project focused on designing a highly optimized ETL (Extract, Transform, Load) pipeline to streamline the research process.
+**TL;DR:** Built a unified ETL that merges milking meters, rumen sensors, accelerometers, and barn loggers by timestamp + ID into ML-ready tables.
 
-## Data Sources Integrated
-*   Milking meters (Yield/Flow data)
-*   Rumen sensors (pH/Temperature)
-*   Accelerometers (Activity/Behavior)
-*   Environmental loggers (Barn conditions)
+## Problem
+Every analysis started with weeks of manual merging and outlier-chasing.
 
-## Pipeline Features
-*   **Automated Merging:** Combining data from disparate sources based on timestamps and unique IDs.
-*   **Cleaning Algorithms:** Robust error handling for missing values and sensor outliers.
-*   **Readiness for Analysis:** Outputting standardized datasets ready for immediate statistical or machine learning analysis.
+## What I did
+*   Auto-merge on timestamps + animal IDs across 4 heterogeneous sources
+*   Robust cleaning for missing values and sensor outliers
+*   Standardized outputs ready for stats or ML
 
-## Significance
-This infrastructure significantly reduced the time spent on data preprocessing, allowing more focus on actual research and discovery.
+## Result
+Cut preprocessing time dramatically — more modeling, less wrangling.
+
+**Stack:** Python, SQL, Pandas

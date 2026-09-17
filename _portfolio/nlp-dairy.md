@@ -1,8 +1,10 @@
 ---
-title: "NLP-Dairy: Sentiment and Strategic Insights"
-excerpt: "Leveraging Natural Language Processing to analyze consumer sentiment on whole milk and provide actionable insights for organic dairy systems.<br/><img src='/images/nlp-dairy.png'>"
+title: "What 10K+ Consumers Really Think About Milk"
+excerpt: "BERT + topic modeling on social chatter → brand strategy for whole & organic milk.<br/><img src='/images/nlp-dairy.png'>"
 collection: portfolio
 ---
+
+**TL;DR:** Mined social + reviews with VADER/BERT and LDA to explain the whole-milk comeback and map organic-dairy growth bets.
 
 ## Overview
 This project applies advanced Natural Language Processing (NLP) techniques to the dairy industry to bridge the gap between consumer perceptions and industrial strategy. By analyzing large-scale textual data from social media, industry reports, and consumer reviews, we generate actionable insights that help stakeholders navigate the evolving landscape of dairy production and marketing.

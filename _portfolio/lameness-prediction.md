@@ -1,16 +1,20 @@
 ---
-title: "Lameness Prediction using AI & Sensor Data"
-excerpt: "Employing State-of-the-Art (SOTA) machine learning algorithms on commercially created datasets to detect lameness.<br/><img src='/images/lameness-prediction.png'>"
+title: "Early Lameness Alerts from Cow Wearables"
+excerpt: "Accelerometer → ML that flags lame cows early. Clinically validated, published in PLOS ONE.<br/><img src='/images/lameness-prediction.png'>"
 collection: portfolio
 ---
 
-## Overview
-Lameness is a critical welfare and economic issue in dairy farming. This research utilizes **accelerometer data** collected from commercial settings to predict lameness events automatically and accurately.
+**TL;DR:** Built Random Forest / SVM / gradient-boosting models on locomotion accelerometer data to predict lameness before visual signs. Validated against vet diagnoses. Published in *PLOS ONE 2024*.
 
-## Methodology
-*   **Data Source:** Large-scale commercially created datasets comprising sensor readings.
-*   **Algorithms:** Implementation of various Machine Learning techniques, ranging from traditional classifiers to State-of-the-Art (SOTA) Deep Learning models.
-*   **Validation:** Rigorous testing against veterinary diagnoses to ensure model reliability.
+## Problem
+Lameness costs ~$300+ per case and hurts welfare — but visual scoring is slow and subjective.
 
-## Impact
-The project aims to enable early detection of lameness, allowing for timely intervention and reducing animal suffering.
+## What I did
+*   Cleaned commercial accelerometer streams (filtering, feature engineering on gait/activity)
+*   Compared RF, SVM, and boosting; tuned for sensitivity/specificity + ROC
+*   Validated against clinical ground truth, not just cross-val splits
+
+## Result
+Early-detection model vets can trust → paper + framework reused for mastitis & heat-stress work.
+
+**Stack:** Python, scikit-learn, R · **Proof:** [PLOS ONE paper](/publications/)

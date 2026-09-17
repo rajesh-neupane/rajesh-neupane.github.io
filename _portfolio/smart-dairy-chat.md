@@ -1,16 +1,20 @@
 ---
-title: "Smart Dairy Chat Application"
-excerpt: "Research and development of an intelligent conversational agent to assist dairy management and decision-making.<br/><img src='/images/smart-dairy-app.png'>"
+title: "SmartDairyChat: Ask-a-Vet AI for Farmers"
+excerpt: "LLM assistant that turns dairy science into instant herd-health answers on-farm.<br/><img src='/images/smart-dairy-app.png'>"
 collection: portfolio
 ---
 
-## Overview
-This project focuses on the **SmartDairyChat App**, a smart application designed to bridge the gap between complex dairy science and daily farm operations. The app leverages Natural Language Processing (NLP) to provide farmers with instant, data-driven insights.
+**TL;DR:** Prototype conversational AI that answers herd-health, nutrition, and breeding questions in plain language for busy farmers.
 
-## Key Features
-*   **Interactive Q&A:** Users can ask questions related to herd health, nutrition, and breeding.
-*   **Real-time Assistance:** Provides immediate recommendations based on current dairy science standards.
-*   **User-Centric Design:** Optimized for ease of use in high-paced farm environments.
+## Problem
+Great science, stuck in papers — farmers need answers in the barn, fast.
 
-## Research Goal
-To evaluate the usability and accuracy of AI-driven chatbots in disseminating critical dairy science knowledge to non-technical users.
+## What I did
+*   Built Q&A over dairy-science knowledge (health, nutrition, breeding)
+*   Optimized for non-technical users in high-paced farm settings
+*   Tested usability + accuracy for real decisions
+
+## Result
+Farm-ready demo of how LLMs can put vet-level knowledge in every pocket.
+
+**Stack:** Python, HuggingFace Transformers, NLP
